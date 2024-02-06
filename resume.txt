@@ -1,0 +1,8 @@
+- membuat collection - collect(array)
+- foreach
+- manipulasi Collection : push , pop, prepend, pull, put
+- mapping : map(function), mapInto(class), mapSpread(function), mapToGroups(function)
+- zipping : zip(collection / array), concat(collection / array), combine(collection / array)
+- flattening : collapse(), flatMap(function)
+- String Representation : join(glue = '', finalGlue = '')
+- Filtering = filter(function) 
