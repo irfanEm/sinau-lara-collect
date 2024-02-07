@@ -6,3 +6,18 @@
 - flattening : collapse(), flatMap(function)
 - String Representation : join(glue = '', finalGlue = '')
 - Filtering = filter(function) 
+- Partitioning = partition(function)
+- Testing = has(array), hasANy(array), contains(value), contains(key, value), contains(function).
+- Grouping = groupBy(key), groupBy(function)
+- Slicing = slice(start), slice(start, length)
+- Take = take(length), takeUntil(function), takeWhile(function)
+-  Skip = skip(length), skipUntil(function), skipWhile(function)
+- Chunked = chunk(number)
+- Retrieve = first(), firstOrFail(), first(function), firstWhere(key, value), last(), last(function)
+- Random = random(), random(total)
+- Checking Existance = isEmpty(): bool, isNotEmpty(), contains(value), contains(function), containsOneItem()
+- Ordering = sort(), sortBy(key/function), sortDesc(), sortByDesc(key/function), sortKeys(), sortKeysDesc(), reverse()
+- Agregate = min(), max(), avg() / average(), sum(), count().
+- Reduce = reduce(function(carry, item))
+- Method lainya
+- Lazy Collection = 
